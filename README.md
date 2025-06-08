@@ -20,7 +20,7 @@ https://learning-style-predictor-9iawobcgmd4sduxl5exrru.streamlit.app/
 
 ## 🚀 Live Demo
 
-👉 [Click here to try the app](https://share.streamlit.io/) &nbsp; *(replace with your actual app URL once deployed)*
+https://learning-style-predictor-9iawobcgmd4sduxl5exrru.streamlit.app/
 
 ---
 
@@ -37,12 +37,19 @@ https://learning-style-predictor-9iawobcgmd4sduxl5exrru.streamlit.app/
 
 ## 🗂️ Project Structure
 ├── streamlit_app.py
+
 ├── learning_style_data.csv # Cleaned dataset
+
 ├── random_forest_learning_style_model.pkl # Trained model
+
 ├── encoders.pkl
+
 ├── model.pkl
+
 ├── requirement.txt # Dependencies
+
 ├── .gitignore
+
 └── README.md
 
 ---

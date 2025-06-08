@@ -1,0 +1,351 @@
+Gender,Study_Time,Reading_Speed,Multimedia_Usage,Note_Taking,Recall_Strategy,Preferred_Content,Learning_Style
+Female,Less than 1 hour,Average,Sometimes,Handwritten,Teaching Others,Video,Visual
+Male,1-2 hours,Average,Frequently,,Flashcards,Video,Visual
+Female,More than 3 hours,Fast,Frequently,None,Rewriting Notes,,Visual
+Female,More than 3 hours,Average,Frequently,,Flashcards,Video,Visual
+Male,1-2 hours,Fast,Frequently,Handwritten,Summary Notes,Audio,Visual
+Male,Less than 1 hour,Fast,Frequently,Typed,Teaching Others,Video,Visual
+Male,Less than 1 hour,Average,Frequently,Handwritten,Teaching Others,Audio,Visual
+Male,2-3 hours,Average,Frequently,Handwritten,Flashcards,Audio,Visual
+Female,Less than 1 hour,Average,Rarely,None,Teaching Others,Video,Visual
+Male,Less than 1 hour,,Sometimes,Typed,Summary Notes,Video,Visual
+Male,2-3 hours,Average,Sometimes,None,Rewriting Notes,Video,Visual
+,2-3 hours,Slow,Rarely,Typed,Flashcards,Audio,Visual
+Male,1-2 hours,Slow,Sometimes,None,Rewriting Notes,Video,Visual
+Female,,Average,Rarely,None,Rewriting Notes,Audio,Visual
+Female,More than 3 hours,Slow,Sometimes,Handwritten,Summary Notes,Audio,Visual
+Female,1-2 hours,Slow,Frequently,Handwritten,Flashcards,Video,Visual
+Male,2-3 hours,Average,Rarely,Handwritten,,Video,Visual
+Female,2-3 hours,Average,Frequently,Handwritten,Summary Notes,Audio,Visual
+Male,,Fast,Sometimes,Handwritten,Summary Notes,Video,Visual
+Female,2-3 hours,Average,Frequently,Handwritten,Summary Notes,Audio,Visual
+Female,More than 3 hours,Fast,Rarely,Handwritten,Flashcards,Audio,Visual
+Male,Less than 1 hour,Average,Sometimes,Handwritten,Summary Notes,Video,Visual
+Male,More than 3 hours,Fast,Frequently,Handwritten,Flashcards,,Visual
+Female,More than 3 hours,,Sometimes,Handwritten,Summary Notes,Audio,Visual
+Female,1-2 hours,Slow,Frequently,Handwritten,Summary Notes,Audio,Visual
+Female,2-3 hours,Average,Sometimes,Handwritten,Summary Notes,,Visual
+Male,Less than 1 hour,Fast,,Handwritten,Summary Notes,Video,Visual
+Female,More than 3 hours,Average,Frequently,Handwritten,Flashcards,Video,Visual
+Male,1-2 hours,Average,Frequently,,Summary Notes,Audio,Visual
+Female,Less than 1 hour,Fast,Frequently,Handwritten,Flashcards,Audio,Visual
+Female,Less than 1 hour,Slow,Frequently,Handwritten,Summary Notes,Video,Visual
+Female,1-2 hours,Slow,Frequently,Handwritten,Flashcards,Video,Visual
+Male,1-2 hours,Fast,Frequently,Handwritten,Summary Notes,Video,Visual
+Female,2-3 hours,Slow,Rarely,Handwritten,Flashcards,Video,Visual
+Female,More than 3 hours,Average,Frequently,Handwritten,Flashcards,Video,Visual
+Male,Less than 1 hour,Slow,Rarely,Handwritten,Flashcards,Video,Visual
+Male,1-2 hours,Average,Frequently,Handwritten,Flashcards,Video,Visual
+Female,More than 3 hours,Average,Rarely,Handwritten,Flashcards,Video,Visual
+Male,Less than 1 hour,Average,Frequently,Handwritten,Summary Notes,Video,Visual
+Male,,Slow,Sometimes,Handwritten,Summary Notes,Video,Visual
+Female,More than 3 hours,Average,Frequently,Handwritten,Flashcards,Video,Visual
+Female,,Slow,Sometimes,Handwritten,Flashcards,Audio,Visual
+Male,More than 3 hours,Slow,Rarely,Handwritten,,Video,Visual
+Male,More than 3 hours,Slow,Rarely,Handwritten,Flashcards,,Visual
+Male,2-3 hours,,Rarely,Handwritten,,Video,Visual
+Male,1-2 hours,Slow,Frequently,Handwritten,Flashcards,Video,Visual
+Female,1-2 hours,Fast,Rarely,Handwritten,Summary Notes,Audio,Visual
+Male,More than 3 hours,Fast,,Handwritten,Flashcards,Audio,Visual
+Female,1-2 hours,Slow,Sometimes,Handwritten,Summary Notes,Video,Visual
+Female,2-3 hours,Fast,Sometimes,Handwritten,Flashcards,Audio,Visual
+Female,,Fast,Sometimes,Handwritten,Flashcards,Audio,Visual
+Male,1-2 hours,Slow,Rarely,Handwritten,Summary Notes,Video,Visual
+Male,More than 3 hours,Fast,Frequently,Handwritten,Flashcards,Video,Visual
+Male,Less than 1 hour,Slow,Rarely,Handwritten,Flashcards,Video,Visual
+Male,2-3 hours,Slow,Rarely,Handwritten,Flashcards,Video,Visual
+Male,More than 3 hours,Average,Frequently,Handwritten,Flashcards,Audio,Visual
+Male,2-3 hours,Slow,Sometimes,Handwritten,Summary Notes,Video,Visual
+Male,1-2 hours,Slow,Sometimes,Handwritten,Summary Notes,Video,Visual
+Male,Less than 1 hour,Average,Frequently,Handwritten,Flashcards,Video,Visual
+Male,2-3 hours,Fast,Rarely,,Flashcards,Video,Visual
+Male,1-2 hours,Slow,Rarely,Handwritten,Summary Notes,,Visual
+Male,Less than 1 hour,Slow,Sometimes,Handwritten,Summary Notes,Video,Visual
+Female,1-2 hours,Slow,,Handwritten,Flashcards,Audio,Visual
+Female,Less than 1 hour,Slow,Rarely,Handwritten,Summary Notes,Video,Visual
+Male,1-2 hours,Fast,Rarely,Handwritten,Summary Notes,Audio,Visual
+Male,Less than 1 hour,Average,Frequently,Handwritten,Summary Notes,Video,Visual
+Female,,Fast,Rarely,Handwritten,Flashcards,Video,Visual
+Male,2-3 hours,,Frequently,Handwritten,Summary Notes,Audio,Visual
+Male,More than 3 hours,Fast,Sometimes,Handwritten,Flashcards,Video,Visual
+Female,1-2 hours,Fast,Sometimes,Handwritten,Flashcards,Video,Visual
+Female,1-2 hours,Fast,Frequently,Handwritten,Flashcards,Audio,Visual
+Male,1-2 hours,Fast,Frequently,Handwritten,Flashcards,Video,Visual
+Male,Less than 1 hour,Average,Frequently,Handwritten,,Audio,Visual
+Male,2-3 hours,Fast,Sometimes,Handwritten,Flashcards,Video,Visual
+Female,More than 3 hours,Slow,Sometimes,Handwritten,Flashcards,Audio,Visual
+Female,1-2 hours,Average,Rarely,Handwritten,Flashcards,Video,Visual
+Female,1-2 hours,Fast,Frequently,Handwritten,Flashcards,Audio,Visual
+Male,More than 3 hours,Average,Frequently,Handwritten,Summary Notes,,Visual
+Male,2-3 hours,Average,Sometimes,Handwritten,,Video,Visual
+Male,1-2 hours,Average,Rarely,Handwritten,Flashcards,Video,Visual
+Male,1-2 hours,,Frequently,,Teaching Others,Audio,Auditory
+Female,1-2 hours,Average,Frequently,Handwritten,Teaching Others,Audio,Auditory
+Male,2-3 hours,Fast,Frequently,Typed,Teaching Others,,Auditory
+Male,More than 3 hours,Slow,Frequently,None,Teaching Others,Audio,Auditory
+,More than 3 hours,Fast,Frequently,None,Teaching Others,Audio,Auditory
+Female,More than 3 hours,Average,Frequently,None,Teaching Others,Audio,Auditory
+Female,1-2 hours,Fast,Frequently,None,Teaching Others,Audio,Auditory
+Male,Less than 1 hour,Fast,Frequently,Handwritten,Teaching Others,Audio,Auditory
+Female,1-2 hours,Fast,Frequently,Handwritten,Teaching Others,Audio,Auditory
+Male,1-2 hours,Average,Frequently,Typed,Teaching Others,Audio,Auditory
+Male,1-2 hours,Fast,Frequently,Typed,Summary Notes,Audio,Auditory
+Female,Less than 1 hour,Fast,Frequently,None,Teaching Others,Audio,Auditory
+,,Average,Frequently,Typed,,Audio,Auditory
+Female,Less than 1 hour,Slow,Frequently,Typed,Teaching Others,Audio,Auditory
+,1-2 hours,Slow,Frequently,Handwritten,Teaching Others,Audio,Auditory
+Female,Less than 1 hour,Fast,Frequently,Handwritten,Teaching Others,Video,Auditory
+Male,1-2 hours,Fast,Frequently,Handwritten,Teaching Others,Audio,Auditory
+Male,2-3 hours,Slow,Frequently,None,Teaching Others,Audio,Auditory
+Male,1-2 hours,Fast,Frequently,None,Flashcards,,Auditory
+,More than 3 hours,Fast,Frequently,Handwritten,Teaching Others,,Auditory
+Male,More than 3 hours,,Frequently,Typed,Teaching Others,Audio,Auditory
+Male,1-2 hours,,Frequently,Typed,Teaching Others,Audio,Auditory
+,Less than 1 hour,Average,Frequently,None,Summary Notes,Text,Auditory
+Male,More than 3 hours,Fast,Frequently,Handwritten,Teaching Others,Audio,Auditory
+Male,Less than 1 hour,Fast,Frequently,None,Teaching Others,Video,Auditory
+Male,2-3 hours,Slow,Frequently,Typed,Teaching Others,Audio,Auditory
+Male,2-3 hours,Average,Frequently,Handwritten,Teaching Others,Audio,Auditory
+Female,More than 3 hours,Slow,Frequently,Handwritten,Teaching Others,Audio,Auditory
+Female,2-3 hours,Fast,Frequently,Typed,Teaching Others,Audio,Auditory
+Female,More than 3 hours,Slow,Frequently,Typed,Teaching Others,Video,Auditory
+Male,More than 3 hours,Slow,Frequently,Typed,Flashcards,Video,Auditory
+Female,2-3 hours,Slow,Frequently,Handwritten,Teaching Others,Audio,Auditory
+Male,More than 3 hours,Fast,Frequently,Handwritten,Teaching Others,Audio,Auditory
+Female,More than 3 hours,Slow,Frequently,Typed,Flashcards,Physical Practice,Auditory
+Female,1-2 hours,Slow,Frequently,Typed,Teaching Others,Video,Auditory
+Male,More than 3 hours,Fast,Frequently,Typed,Teaching Others,,Auditory
+Male,1-2 hours,Fast,Frequently,Typed,Teaching Others,Video,Auditory
+Female,More than 3 hours,Slow,Frequently,Handwritten,Teaching Others,Video,Auditory
+Male,2-3 hours,Fast,Frequently,None,,Audio,Auditory
+Female,2-3 hours,Fast,Frequently,Handwritten,,Text,Auditory
+Male,Less than 1 hour,Fast,Frequently,Handwritten,Teaching Others,Audio,Auditory
+Female,1-2 hours,Slow,Frequently,Handwritten,Teaching Others,Video,Auditory
+Male,1-2 hours,Fast,Frequently,None,Teaching Others,Video,Auditory
+Female,Less than 1 hour,Average,Frequently,Handwritten,Teaching Others,Video,Auditory
+Male,2-3 hours,Average,Frequently,None,Flashcards,Audio,Auditory
+Male,1-2 hours,Fast,Frequently,None,Summary Notes,Audio,Auditory
+Male,Less than 1 hour,Fast,Frequently,Typed,Teaching Others,Video,Auditory
+Male,More than 3 hours,Average,Frequently,None,Teaching Others,,Auditory
+Female,Less than 1 hour,Slow,Frequently,Typed,Teaching Others,Audio,Auditory
+Female,2-3 hours,Average,Frequently,Handwritten,Teaching Others,Audio,Auditory
+Male,Less than 1 hour,Fast,Frequently,Handwritten,Teaching Others,Audio,Auditory
+Female,2-3 hours,Fast,Frequently,None,Teaching Others,Audio,Auditory
+Male,2-3 hours,,Frequently,Handwritten,Teaching Others,Audio,Auditory
+Male,2-3 hours,Slow,Frequently,None,Teaching Others,Video,Auditory
+Female,More than 3 hours,Average,Frequently,Handwritten,Teaching Others,Video,Auditory
+Female,1-2 hours,Fast,Frequently,Typed,Teaching Others,Audio,Auditory
+Male,2-3 hours,Average,Frequently,None,Teaching Others,Video,Auditory
+Male,Less than 1 hour,Fast,Frequently,Typed,Teaching Others,Audio,Auditory
+Male,More than 3 hours,Slow,Frequently,None,Teaching Others,Audio,Auditory
+Male,Less than 1 hour,Fast,,Handwritten,Teaching Others,Video,Auditory
+Male,Less than 1 hour,Fast,Frequently,Typed,Teaching Others,Video,Auditory
+Female,Less than 1 hour,Average,Frequently,Handwritten,Teaching Others,Audio,Auditory
+Female,More than 3 hours,Slow,,None,Teaching Others,Video,Auditory
+Male,Less than 1 hour,Fast,Frequently,None,,Audio,Auditory
+Female,Less than 1 hour,Slow,Frequently,None,Teaching Others,Audio,Auditory
+Female,,Slow,Frequently,Handwritten,Teaching Others,Video,Auditory
+Male,More than 3 hours,Slow,Frequently,Handwritten,,Audio,Auditory
+Female,1-2 hours,Slow,Frequently,Handwritten,Teaching Others,Audio,Auditory
+Female,2-3 hours,Fast,Frequently,None,Teaching Others,,Auditory
+Female,Less than 1 hour,Average,Frequently,Typed,Teaching Others,Audio,Auditory
+Male,1-2 hours,Fast,Frequently,Handwritten,Flashcards,Text,Auditory
+Male,1-2 hours,Average,Frequently,Handwritten,Teaching Others,Audio,Auditory
+Female,Less than 1 hour,Slow,Frequently,Handwritten,Teaching Others,Video,Auditory
+Female,More than 3 hours,Average,Frequently,None,Rewriting Notes,Video,Auditory
+Female,1-2 hours,Average,Frequently,Handwritten,Teaching Others,Audio,Auditory
+Female,Less than 1 hour,Slow,Frequently,Handwritten,Teaching Others,Audio,Auditory
+Male,2-3 hours,Fast,Frequently,,Teaching Others,Video,Auditory
+Male,More than 3 hours,Slow,Frequently,None,Teaching Others,Audio,Auditory
+Male,1-2 hours,Slow,Frequently,None,Teaching Others,Audio,Auditory
+Male,2-3 hours,Fast,Frequently,None,Teaching Others,Audio,Auditory
+Female,More than 3 hours,Slow,Frequently,None,Rewriting Notes,Physical Practice,Auditory
+Female,Less than 1 hour,Average,Frequently,Handwritten,,,Auditory
+Female,More than 3 hours,Slow,Frequently,Handwritten,Teaching Others,Video,Auditory
+Male,2-3 hours,Slow,Frequently,Handwritten,Flashcards,,Auditory
+Female,More than 3 hours,Fast,Frequently,Handwritten,Teaching Others,Audio,Auditory
+Male,More than 3 hours,Average,Frequently,Typed,Teaching Others,Audio,Auditory
+Male,Less than 1 hour,Average,Frequently,None,Teaching Others,Audio,Auditory
+Male,More than 3 hours,Average,Frequently,Handwritten,Teaching Others,Video,Auditory
+Female,Less than 1 hour,Fast,Frequently,Typed,Teaching Others,Audio,Auditory
+Male,1-2 hours,Average,Frequently,None,Teaching Others,Audio,Auditory
+Female,Less than 1 hour,Average,,Handwritten,Rewriting Notes,Audio,Auditory
+Female,More than 3 hours,Fast,Frequently,None,Teaching Others,Video,Auditory
+Male,1-2 hours,Slow,Frequently,None,Teaching Others,Audio,Auditory
+Female,2-3 hours,Slow,Frequently,None,Teaching Others,Video,Auditory
+Female,More than 3 hours,Fast,Frequently,Typed,Teaching Others,Video,Auditory
+Female,Less than 1 hour,Average,Frequently,Handwritten,Teaching Others,Audio,Auditory
+Male,1-2 hours,Slow,Frequently,Handwritten,Teaching Others,Audio,Auditory
+Male,Less than 1 hour,Average,Frequently,Typed,Teaching Others,Audio,Auditory
+Female,Less than 1 hour,Slow,,None,Teaching Others,Video,Auditory
+Female,Less than 1 hour,Slow,Frequently,None,,Video,Auditory
+Male,More than 3 hours,Slow,Sometimes,Typed,Teaching Others,Physical Practice,Kinesthetic
+Male,More than 3 hours,Slow,,Handwritten,Teaching Others,Text,Kinesthetic
+Female,More than 3 hours,Average,Sometimes,Handwritten,Summary Notes,Video,Kinesthetic
+Female,More than 3 hours,Average,Rarely,None,Rewriting Notes,Physical Practice,Kinesthetic
+Female,More than 3 hours,Fast,Frequently,None,Summary Notes,Text,Kinesthetic
+Male,More than 3 hours,Average,Frequently,None,Flashcards,Audio,Kinesthetic
+Male,More than 3 hours,Average,Frequently,Handwritten,Summary Notes,Text,Kinesthetic
+Female,More than 3 hours,Average,,Typed,Summary Notes,,Kinesthetic
+Female,More than 3 hours,Fast,Sometimes,Handwritten,Rewriting Notes,,Kinesthetic
+Female,More than 3 hours,Average,Rarely,Handwritten,Flashcards,Audio,Kinesthetic
+Female,More than 3 hours,Slow,Rarely,,Rewriting Notes,,Kinesthetic
+Female,More than 3 hours,Fast,Sometimes,None,Summary Notes,Video,Kinesthetic
+Female,More than 3 hours,Average,Sometimes,Handwritten,Flashcards,Physical Practice,Kinesthetic
+Male,More than 3 hours,Slow,,Handwritten,Teaching Others,Video,Kinesthetic
+Female,More than 3 hours,Average,Rarely,Handwritten,Rewriting Notes,Audio,Kinesthetic
+Male,More than 3 hours,Average,Rarely,None,,Physical Practice,Kinesthetic
+Female,More than 3 hours,Slow,Frequently,None,Teaching Others,Physical Practice,Kinesthetic
+Male,More than 3 hours,Average,Rarely,None,Teaching Others,Physical Practice,Kinesthetic
+Male,More than 3 hours,Fast,Rarely,None,Teaching Others,Physical Practice,Kinesthetic
+Female,More than 3 hours,Slow,Sometimes,None,Teaching Others,Physical Practice,Kinesthetic
+Male,More than 3 hours,Slow,Frequently,Typed,Teaching Others,Physical Practice,Kinesthetic
+Male,More than 3 hours,Fast,Rarely,Handwritten,Teaching Others,Physical Practice,Kinesthetic
+Male,More than 3 hours,Average,Rarely,Typed,,Physical Practice,Kinesthetic
+Female,More than 3 hours,Slow,Sometimes,Typed,Teaching Others,,Kinesthetic
+Male,More than 3 hours,Fast,Sometimes,None,Teaching Others,Physical Practice,Kinesthetic
+Female,More than 3 hours,Slow,Frequently,Typed,,Physical Practice,Kinesthetic
+Male,,Slow,Rarely,None,Teaching Others,Physical Practice,Kinesthetic
+Male,More than 3 hours,Average,Rarely,,Teaching Others,Physical Practice,Kinesthetic
+Male,More than 3 hours,,Rarely,None,Teaching Others,Physical Practice,Kinesthetic
+Female,More than 3 hours,Average,Frequently,None,Teaching Others,Physical Practice,Kinesthetic
+Female,More than 3 hours,Average,Frequently,Typed,Teaching Others,Physical Practice,Kinesthetic
+Male,More than 3 hours,Fast,Rarely,Handwritten,Teaching Others,Physical Practice,Kinesthetic
+Male,,Average,Frequently,Handwritten,Teaching Others,Physical Practice,Kinesthetic
+Female,More than 3 hours,Fast,Rarely,Handwritten,Teaching Others,Physical Practice,Kinesthetic
+Female,More than 3 hours,Fast,Rarely,None,Teaching Others,Physical Practice,Kinesthetic
+Female,More than 3 hours,Slow,Sometimes,Handwritten,Teaching Others,Physical Practice,Kinesthetic
+Female,More than 3 hours,Fast,,Handwritten,Teaching Others,Physical Practice,Kinesthetic
+Male,More than 3 hours,Fast,Sometimes,Handwritten,Teaching Others,Physical Practice,Kinesthetic
+Female,More than 3 hours,,Sometimes,Typed,Teaching Others,Physical Practice,Kinesthetic
+Male,More than 3 hours,Average,Sometimes,None,Teaching Others,Physical Practice,Kinesthetic
+Male,More than 3 hours,Fast,Rarely,Typed,Teaching Others,Physical Practice,Kinesthetic
+Male,More than 3 hours,Average,Frequently,Typed,Teaching Others,Physical Practice,Kinesthetic
+Male,More than 3 hours,Average,Sometimes,Typed,Teaching Others,Physical Practice,Kinesthetic
+Male,,Slow,Rarely,Typed,Teaching Others,Physical Practice,Kinesthetic
+Female,More than 3 hours,Average,Sometimes,Typed,Teaching Others,Physical Practice,Kinesthetic
+Female,More than 3 hours,Fast,Sometimes,None,Teaching Others,Physical Practice,Kinesthetic
+Male,More than 3 hours,Slow,Rarely,Handwritten,Teaching Others,Physical Practice,Kinesthetic
+Female,More than 3 hours,Average,Sometimes,None,Teaching Others,Physical Practice,Kinesthetic
+Male,More than 3 hours,Slow,Sometimes,Handwritten,Teaching Others,Physical Practice,Kinesthetic
+Male,More than 3 hours,Average,Sometimes,Handwritten,Teaching Others,Physical Practice,Kinesthetic
+Male,More than 3 hours,Average,Rarely,Handwritten,Teaching Others,Physical Practice,Kinesthetic
+Male,More than 3 hours,Fast,Sometimes,None,Teaching Others,Physical Practice,Kinesthetic
+Female,More than 3 hours,Average,Rarely,None,Teaching Others,Physical Practice,Kinesthetic
+Female,More than 3 hours,Slow,,Handwritten,Teaching Others,Physical Practice,Kinesthetic
+Female,More than 3 hours,Fast,Rarely,,Teaching Others,Physical Practice,Kinesthetic
+Male,More than 3 hours,Fast,Frequently,Handwritten,Teaching Others,Physical Practice,Kinesthetic
+Male,More than 3 hours,Average,Frequently,None,,Physical Practice,Kinesthetic
+Male,More than 3 hours,Slow,Sometimes,Handwritten,Teaching Others,Physical Practice,Kinesthetic
+Female,More than 3 hours,Slow,Rarely,None,Teaching Others,Physical Practice,Kinesthetic
+Female,More than 3 hours,Fast,Sometimes,Handwritten,Teaching Others,Physical Practice,Kinesthetic
+Female,More than 3 hours,Slow,Frequently,None,Teaching Others,Physical Practice,Kinesthetic
+Male,More than 3 hours,Fast,Frequently,Handwritten,Teaching Others,Physical Practice,Kinesthetic
+Male,More than 3 hours,Fast,Frequently,Handwritten,Teaching Others,Physical Practice,Kinesthetic
+Male,More than 3 hours,Slow,,None,Teaching Others,Physical Practice,Kinesthetic
+Male,More than 3 hours,Slow,Sometimes,None,Teaching Others,Physical Practice,Kinesthetic
+Male,More than 3 hours,Average,Frequently,Typed,Teaching Others,Physical Practice,Kinesthetic
+Female,More than 3 hours,Fast,Sometimes,Typed,Teaching Others,Physical Practice,Kinesthetic
+Male,More than 3 hours,Average,Sometimes,None,Teaching Others,Physical Practice,Kinesthetic
+Male,More than 3 hours,Average,Rarely,Handwritten,Teaching Others,Physical Practice,Kinesthetic
+Female,More than 3 hours,,Frequently,Handwritten,Teaching Others,Physical Practice,Kinesthetic
+Male,More than 3 hours,Fast,Frequently,Handwritten,Teaching Others,Physical Practice,Kinesthetic
+Male,More than 3 hours,Fast,Frequently,Handwritten,Teaching Others,Physical Practice,Kinesthetic
+Female,More than 3 hours,Slow,Frequently,Typed,Teaching Others,Physical Practice,Kinesthetic
+Female,More than 3 hours,Fast,Sometimes,None,Teaching Others,Physical Practice,Kinesthetic
+Male,More than 3 hours,Slow,Frequently,Typed,Teaching Others,Physical Practice,Kinesthetic
+Male,More than 3 hours,Fast,Rarely,Handwritten,Teaching Others,Physical Practice,Kinesthetic
+Male,More than 3 hours,Fast,Rarely,None,,Physical Practice,Kinesthetic
+Male,More than 3 hours,Slow,Rarely,None,Teaching Others,Physical Practice,Kinesthetic
+Male,More than 3 hours,Fast,Frequently,Handwritten,Teaching Others,Physical Practice,Kinesthetic
+Male,More than 3 hours,Fast,Sometimes,Typed,Teaching Others,Physical Practice,Kinesthetic
+Female,More than 3 hours,Fast,Sometimes,Handwritten,Teaching Others,Physical Practice,Kinesthetic
+Female,More than 3 hours,Slow,Frequently,Handwritten,Teaching Others,Physical Practice,Kinesthetic
+,More than 3 hours,Slow,Rarely,Typed,,Physical Practice,Kinesthetic
+Female,More than 3 hours,Fast,Rarely,None,Teaching Others,Physical Practice,Kinesthetic
+Male,More than 3 hours,Slow,Sometimes,Handwritten,Teaching Others,Physical Practice,Kinesthetic
+Female,More than 3 hours,Average,Frequently,Handwritten,Teaching Others,Physical Practice,Kinesthetic
+Male,More than 3 hours,Fast,Rarely,Typed,Teaching Others,Physical Practice,Kinesthetic
+Female,More than 3 hours,Slow,Rarely,Typed,Teaching Others,Physical Practice,Kinesthetic
+Female,More than 3 hours,Slow,Rarely,None,Teaching Others,Physical Practice,Kinesthetic
+Female,More than 3 hours,Fast,Sometimes,Handwritten,Teaching Others,Physical Practice,Kinesthetic
+Female,,Slow,Frequently,Typed,Teaching Others,Text,Reading/Writing
+Female,2-3 hours,Average,Rarely,Handwritten,Flashcards,Text,Reading/Writing
+Female,Less than 1 hour,Slow,Sometimes,None,Summary Notes,Video,Reading/Writing
+Female,2-3 hours,Average,Frequently,Typed,Rewriting Notes,Audio,Reading/Writing
+Male,Less than 1 hour,,Sometimes,None,Flashcards,Text,Reading/Writing
+Female,1-2 hours,Slow,Sometimes,Handwritten,,,Reading/Writing
+Male,More than 3 hours,Fast,Rarely,,Flashcards,Physical Practice,Reading/Writing
+Male,More than 3 hours,Average,Rarely,Handwritten,Teaching Others,Text,Reading/Writing
+Female,More than 3 hours,Fast,Rarely,,Teaching Others,Physical Practice,Reading/Writing
+Male,Less than 1 hour,Average,Frequently,Handwritten,Teaching Others,Physical Practice,Reading/Writing
+Female,1-2 hours,Fast,Sometimes,Typed,Rewriting Notes,Text,Reading/Writing
+Male,More than 3 hours,Fast,Rarely,Handwritten,Summary Notes,Video,Reading/Writing
+Male,More than 3 hours,Slow,Sometimes,None,Flashcards,Physical Practice,Reading/Writing
+Male,Less than 1 hour,Average,Rarely,Typed,Flashcards,Text,Reading/Writing
+Female,1-2 hours,Slow,Frequently,Handwritten,Teaching Others,Audio,Reading/Writing
+Female,1-2 hours,,Rarely,Typed,Rewriting Notes,Text,Reading/Writing
+Female,,Slow,Frequently,Typed,Rewriting Notes,,Reading/Writing
+Female,Less than 1 hour,,Frequently,Handwritten,,Text,Reading/Writing
+Male,Less than 1 hour,Average,Sometimes,Typed,Rewriting Notes,,Reading/Writing
+Female,Less than 1 hour,Fast,Sometimes,Typed,Rewriting Notes,Text,Reading/Writing
+Male,1-2 hours,Slow,Sometimes,Handwritten,Rewriting Notes,Text,Reading/Writing
+Male,2-3 hours,Fast,Frequently,Typed,Rewriting Notes,Text,Reading/Writing
+Female,2-3 hours,,Sometimes,Handwritten,Rewriting Notes,Text,Reading/Writing
+Male,2-3 hours,Fast,Sometimes,Typed,Rewriting Notes,,Reading/Writing
+Male,Less than 1 hour,Slow,Sometimes,Handwritten,Rewriting Notes,Text,Reading/Writing
+Male,Less than 1 hour,Slow,Rarely,,Rewriting Notes,Text,Reading/Writing
+Female,Less than 1 hour,,Frequently,Handwritten,Rewriting Notes,Text,Reading/Writing
+Female,2-3 hours,Slow,Frequently,Typed,Rewriting Notes,Text,Reading/Writing
+Male,2-3 hours,Fast,Sometimes,Typed,Rewriting Notes,Text,Reading/Writing
+Female,1-2 hours,Average,Frequently,Handwritten,Rewriting Notes,Text,Reading/Writing
+Female,2-3 hours,Fast,Frequently,Typed,Rewriting Notes,Text,Reading/Writing
+Female,1-2 hours,Fast,Sometimes,Handwritten,Rewriting Notes,Text,Reading/Writing
+Female,2-3 hours,Slow,Frequently,Handwritten,Rewriting Notes,Text,Reading/Writing
+Female,More than 3 hours,Fast,Frequently,,Rewriting Notes,Text,Reading/Writing
+,Less than 1 hour,Slow,Sometimes,Handwritten,Rewriting Notes,Text,Reading/Writing
+Female,1-2 hours,Slow,,Handwritten,Rewriting Notes,Text,Reading/Writing
+Male,More than 3 hours,Average,Frequently,Typed,Rewriting Notes,Text,Reading/Writing
+Female,2-3 hours,Slow,Sometimes,Typed,Rewriting Notes,Text,Reading/Writing
+Female,1-2 hours,,Rarely,Handwritten,,Text,Reading/Writing
+Male,2-3 hours,Average,Rarely,Handwritten,Rewriting Notes,Text,Reading/Writing
+Male,Less than 1 hour,Average,Sometimes,Handwritten,Rewriting Notes,Text,Reading/Writing
+Female,More than 3 hours,Average,Frequently,Typed,Rewriting Notes,Text,Reading/Writing
+Female,1-2 hours,Fast,Sometimes,Typed,Rewriting Notes,Text,Reading/Writing
+Female,Less than 1 hour,Fast,Sometimes,Typed,Rewriting Notes,Text,Reading/Writing
+Female,2-3 hours,Fast,Rarely,Handwritten,Rewriting Notes,Text,Reading/Writing
+Female,1-2 hours,,Frequently,Typed,Rewriting Notes,Text,Reading/Writing
+Female,2-3 hours,Fast,Sometimes,Handwritten,Rewriting Notes,Text,Reading/Writing
+Male,Less than 1 hour,Fast,Frequently,Handwritten,Rewriting Notes,Text,Reading/Writing
+Female,2-3 hours,Fast,,Typed,Rewriting Notes,Text,Reading/Writing
+Female,1-2 hours,Slow,Frequently,Typed,Rewriting Notes,,Reading/Writing
+Female,More than 3 hours,Average,Sometimes,Typed,Rewriting Notes,Text,Reading/Writing
+Female,Less than 1 hour,Slow,Frequently,Typed,Rewriting Notes,Text,Reading/Writing
+Male,1-2 hours,,Rarely,Handwritten,Rewriting Notes,Text,Reading/Writing
+Male,1-2 hours,Slow,Frequently,Typed,Rewriting Notes,Text,Reading/Writing
+Female,1-2 hours,Fast,Rarely,Typed,Rewriting Notes,Text,Reading/Writing
+Female,1-2 hours,Slow,Frequently,Typed,Rewriting Notes,Text,Reading/Writing
+Male,2-3 hours,Fast,Sometimes,Handwritten,Rewriting Notes,Text,Reading/Writing
+Male,2-3 hours,Slow,Sometimes,Handwritten,Rewriting Notes,Text,Reading/Writing
+Female,2-3 hours,Fast,Frequently,Handwritten,Rewriting Notes,Text,Reading/Writing
+Male,Less than 1 hour,Slow,Frequently,Handwritten,Rewriting Notes,Text,Reading/Writing
+Female,Less than 1 hour,Average,,,Rewriting Notes,Text,Reading/Writing
+Female,Less than 1 hour,Average,Rarely,,Rewriting Notes,Text,Reading/Writing
+Male,1-2 hours,Average,Frequently,Typed,Rewriting Notes,Text,Reading/Writing
+Male,Less than 1 hour,Fast,Sometimes,Handwritten,Rewriting Notes,Text,Reading/Writing
+Female,Less than 1 hour,Fast,Rarely,Typed,Rewriting Notes,Text,Reading/Writing
+Female,2-3 hours,Slow,Frequently,Handwritten,Rewriting Notes,Text,Reading/Writing
+Female,1-2 hours,Fast,Frequently,Handwritten,Rewriting Notes,Text,Reading/Writing
+Female,Less than 1 hour,Slow,Sometimes,,,Text,Reading/Writing
+Female,Less than 1 hour,Fast,Frequently,Typed,Rewriting Notes,Text,Reading/Writing
+Male,2-3 hours,Average,Sometimes,Typed,Rewriting Notes,Text,Reading/Writing
+Female,2-3 hours,Average,,Typed,Rewriting Notes,Text,Reading/Writing
+Male,1-2 hours,Slow,Rarely,Typed,Rewriting Notes,Text,Reading/Writing
+Male,More than 3 hours,Slow,Frequently,Handwritten,Rewriting Notes,Text,Reading/Writing
+Male,2-3 hours,Slow,Rarely,Typed,Rewriting Notes,Text,Reading/Writing
+Female,More than 3 hours,Slow,,Handwritten,Rewriting Notes,Text,Reading/Writing
+Female,2-3 hours,Average,Sometimes,Typed,Rewriting Notes,Text,Reading/Writing
+Male,Less than 1 hour,Average,Sometimes,Typed,Rewriting Notes,Text,Reading/Writing
+Female,1-2 hours,Average,Rarely,Handwritten,Rewriting Notes,Text,Reading/Writing
+,1-2 hours,Average,Sometimes,Handwritten,Rewriting Notes,Text,Reading/Writing
+,1-2 hours,Slow,Frequently,Typed,Rewriting Notes,Text,Reading/Writing

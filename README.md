@@ -36,20 +36,13 @@ https://learning-style-predictor-9iawobcgmd4sduxl5exrru.streamlit.app/
 ---
 
 ## 🗂️ Project Structure
-├── streamlit_app.py
-
-├── learning_style_data.csv # Cleaned dataset
-
-├── random_forest_learning_style_model.pkl # Trained model
-
-├── encoders.pkl
-
-├── model.pkl
-
-├── requirement.txt # Dependencies
-
-├── .gitignore
-
+├── streamlit_app.py  
+├── learning_style_data.csv # Cleaned dataset  
+├── train_model.py # Trained model  
+├── encoders.pkl  
+├── model.pkl  
+├── requirement.txt # Dependencies  
+├── .gitignore  
 └── README.md
 
 ---
